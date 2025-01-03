@@ -1,1 +1,3 @@
-RLinJAX
+RLinJAX/*.identifier
+RLinJAX/*/*.Identifier
+RLinJAX/__pycache__
