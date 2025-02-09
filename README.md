@@ -1,2 +1,2 @@
-# MSc Data Science - Advanced Machine Learning - Project 2: Reinforcement Learning
-#### FCUL - Jan 2025
+# Reinforcement Learning Applied to the Mountain Car Problem
+#### Faculty of Sciences of the University of Lisbon - Jan 2025
